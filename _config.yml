@@ -10,8 +10,7 @@ description: > # "Write an awesome description for your new site here.
   You can edit this line in _config.yml. It will appear in your document 
   head meta (for Google search results) and in your feed.xml site 
   description.
-copyright: 'Copyright &copy; 2015 Your Name. All Rights Reserved.'
-credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+copyright: 'Copyright &copy; 2024 Red-Gamma Corp. All Rights Reserved.'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -26,9 +25,9 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
-  - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+  # - title: twitter
+  #   url: https://twitter.com/SBootstrap
+  # - title: github
+  #   url: https://github.com/IronSummitMedia/startbootstrap
   - title: linkedin
-    url: 
+    url: https://jp.linkedin.com/in/%E6%BD%A4%E4%B8%80-%E5%8C%97%E5%B7%9D-b16a19211
