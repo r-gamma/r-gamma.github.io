@@ -1,8 +1,30 @@
 # Landing Page Jekyll theme
 
-Jekyll theme based on [landing-page bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
+Jekyllのテーマで作成されています。  
+参照 [landing-page bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
 
 ## How to use
+
+rubyが必要です
+
+    brew install rbenv ruby-build
+    rbenv init
+    echo 'eval "$(rbenv init - zsh)"' >> ~/.zshrc
+    curl -fsSL https://github.com/rbenv/rbenv-installer/raw/main/bin/rbenv-doctor | bash
+    rbenv install --list
+    rbenv install {x.x.x}
+    rbenv global {x.x.x}
+    ruby --version
+
+jekyllが必要です
+
+    bundle install
+    gem install bundler jekyll
+
+起動します
+
+    bundle exec jekyll serve
+
  - Place a image in `/img/services/`
  - Create posts to display your services. Use the follow as an example:
 
