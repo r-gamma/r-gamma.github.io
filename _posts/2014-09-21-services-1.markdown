@@ -1,8 +1,12 @@
 ---
 layout: default
-img: ipad.png
+img: digital.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: デジタルは高度な要求を欲している
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  現代デジタル技術は専門化する一方,構築から実装まで,複数の領域に横断した理解が必須である.  
+  
+  安心して下さい！  
+  クラウド, RESTful API, OAuth, コンテナ...  
+  ソリューションは既に御社のもの.  
