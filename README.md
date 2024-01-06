@@ -25,7 +25,6 @@ jekyllが必要です
 
     bundle exec jekyll serve
 
- - Place a image in `/img/services/`
  - Create posts to display your services. Use the follow as an example:
 
 ```txt
