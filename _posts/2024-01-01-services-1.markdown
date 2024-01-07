@@ -1,0 +1,13 @@
+---
+layout: default
+img: digital.png
+category: Services
+title: デジタルは高度な要求を欲している
+description: |
+---
+  最新デジタル技術は専門化する一方,複数領域に横断した理解が求められる.  
+  
+  安心して下さい！  
+  クラウド, REST, OAuth, コンテナ...  
+  ソリューションは既にあなたのもの.
+  
