@@ -2,9 +2,10 @@
 layout: default
 img: dog.png
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: あと何回会議をすれば、<br>完成するのだろう
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+  企画立案・マネージメント・カスタマーサクセス...  
+  現代のシステム開発は多層化しており,技術者が実行に移すまで長い時間を要する.  
+  しかし企画や顧客について無知な技術者が,良いシステムを開発できるだろうか?
+  我々は単なる技術者ではなく,ステークホルダーの意図を汲み取り,実現する開発者であることを信念とする

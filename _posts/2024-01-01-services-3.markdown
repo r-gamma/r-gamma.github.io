@@ -2,7 +2,11 @@
 layout: default
 img: phones.png
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: 最先端テクノロジーは、<br>大体少しだけ大げさ
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+  誇大広告されたテクノロジーに技術者は,多くの場合,懐疑的.  
+  しかしデジタル領域がこの数年,長足の進歩を遂げたことも,事実である.  
+  この不確かな世界で,何を信じればよいのか.  
+  お釈迦様も,悩んだ.  
+  物理・AI領域を研究したエンジニアが,選択すべきソリューションをアドバイスします.
