@@ -1,0 +1,19 @@
+[files]
+extend-exclude = [
+  "*.svg",
+  "font-awesome-4.1.0/*",
+  "**/*.min.js",
+  "logs/**/*",
+  "*.png",
+  "*.jpg",
+  "*.gif",
+  "*.ico",
+  "*.exe",
+  "build/**/*",
+  "dist/**/*"
+]
+
+[default]
+check-filename = true  # ファイル名のスペルチェックを有効
+check-file = true      # ファイル内容のスペルチェックを有効
+locale = "en-us"       # 英語のロケールをアメリカ英語に指定
