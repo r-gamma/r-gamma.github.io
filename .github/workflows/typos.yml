@@ -1,7 +1,5 @@
 name: GitHub Action
-on:
-  push:
-    branches: ["main"]
+on: [pull_request]
 
 jobs:
   run:
